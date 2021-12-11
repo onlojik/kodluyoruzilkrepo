@@ -1,5 +1,7 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fron-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet ReadMe dosyası, bir adet de index.html dosyası barındırıyor. 
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Fron-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet ReadMe dosyası, bir adet de index.html dosyası barındırıyor.
+ 
+![github](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
